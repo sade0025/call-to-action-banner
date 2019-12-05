@@ -50,13 +50,13 @@ body {
   font-size: 3rem;
   line-height: 1.1;
   margin: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
 }
 
 .banner-content div p {
   font-size: 1.5rem;
   margin: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
 }
 
 .btn {
